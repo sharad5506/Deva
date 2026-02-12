@@ -4,7 +4,6 @@
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/sharad5506/Deva?style=social)](https://github.com/sharad5506/Deva)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/github/license/sharad5506/Deva)](LICENSE)
 
 ## 🚀 Features
 
@@ -20,7 +19,9 @@
 ## 🎯 Demo
 
 User: "Hey Deva, open Notepad"
+
 Deva: [Win+R → notepad → Enter]
+
 Deva: "Notepad opened successfully!"
 
 
