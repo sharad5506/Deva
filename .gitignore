@@ -1,0 +1,23 @@
+# Secrets & Environment
+/envdeva/
+contacts.csv
+deva.db
+engine/config.py
+*.env
+
+# Python
+__pycache__/
+**/ __pycache__/
+*.pyc
+venv/
+env/
+
+# Models
+*.ppn
+engine/Hey Deva.ppn
+
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/
+*.log
